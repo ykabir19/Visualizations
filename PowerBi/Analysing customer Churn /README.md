@@ -16,4 +16,4 @@ Power BI, DAX, Excel.
 ## Churn Demographics
 ![image]()
 ## Customer Groups and Contracts
-![image]()
+![image](https://github.com/ykabir19/Visualizations/blob/main/PowerBi/Analysing%20customer%20Churn/Customer%20groups%20and%20contracts.png)
